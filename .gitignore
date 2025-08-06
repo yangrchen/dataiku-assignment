@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+assets/
+data/*
+!data/*.csv
+
+notebooks/presentation_prep.ipynb
+*.zip
